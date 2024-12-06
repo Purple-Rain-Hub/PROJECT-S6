@@ -60,11 +60,11 @@ footer a,
   border-color: #595959;
 }
 
-img {
+.carousels img {
     opacity: 70%;
 }
 
-img:hover {
+.carousels img:hover {
   opacity: 100%;
   transform: scale(1.1);
 }
