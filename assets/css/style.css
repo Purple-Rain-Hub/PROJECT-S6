@@ -70,3 +70,18 @@ footer a,
 }
 
 
+@media screen and (min-width: 992px) {
+    .accountInfo{
+        width: 65%;
+    }
+    .plan{
+        width: 44%;
+    }
+    .settings{
+        width: 60%;
+    }
+    .myProfile{
+        width: 68%;
+    }
+}
+
